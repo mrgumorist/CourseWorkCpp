@@ -197,4 +197,4 @@ void Employer::GivePremia(int proc)
 	Salary += Salary / 100 * proc;
 }
 
-//
+////
